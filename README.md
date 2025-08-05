@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Nyingika%20Chimbelengue&fontSize=30&fontAlignY=35" />
-</div>
+
 # Nyingika Paulo Watela Chimbelengue
 
 ## 👋 Olá, eu sou o Nyingika!
