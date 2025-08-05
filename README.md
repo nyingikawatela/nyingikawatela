@@ -37,7 +37,9 @@
 
 ### 🌟 Projetos em Destaque
 
-
+1. **[Project]** - Sistema Automatização de Encomendas Farmacêuticas com React e Node.js  
+   🔧 Tech: React, Node.js, Prisma  
+   🚀 [Repositório Privado]
 
 ---
 
