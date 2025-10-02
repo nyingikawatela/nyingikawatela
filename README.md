@@ -3,7 +3,7 @@
 
 ## 👋 Olá, eu sou o Nyingika!
 
-🎓 Cadete da 42 Luanda | 💻 Desenvolvedor Full-Stack | 🌱 Aprendendo constantemente
+🎓 Cadete da 42 Luanda
 
 📫 **Contato:** [nyingikachimbelengue@gmail.com](mailto:nyingikachimbelengue@gmail.com)
 
