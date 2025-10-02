@@ -16,7 +16,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Back-end:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,23 +23,15 @@
 
 **Banco de Dados & ORM:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-
-### 🌟 Projetos em Destaque
-
-1. **[Project]** - Sistema Automatização de Encomendas Farmacêuticas com React e Node.js  
-   🔧 Tech: React, Node.js, Prisma  
-   🚀 [Repositório Privado]
 
 ---
 
 ### 📌 Atualmente
 
 - 🏫 Cursando na 42 Luanda
-- 🌱 Aprendendo C e SysAdmin.
-- 👯 Procurando colaborar em projetos open-source
+- 💻 Aprendendo C e SysAdmin.
 
 ---
 
